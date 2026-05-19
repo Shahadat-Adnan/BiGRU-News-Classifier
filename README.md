@@ -1,5 +1,7 @@
 # Fake News Detection using Deep Learning
 
+link for the dayaset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset.
+
 A fake news detection web app built using TensorFlow, NLP, and Streamlit.
 
 The model uses a Bidirectional GRU network trained on fake and real news articles to classify whether a news article is likely fake or real.
