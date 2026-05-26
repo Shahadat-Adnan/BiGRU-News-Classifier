@@ -10,4 +10,4 @@ venv/
 .venv/
 tf-gpu/
 
-../Model
+../Model/
