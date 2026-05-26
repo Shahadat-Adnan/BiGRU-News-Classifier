@@ -1,0 +1,8 @@
+streamlit
+tensorflow-cpu
+keras==2.10.0
+numpy==1.26.4
+nltk==3.9.4
+h5py==3.16.0
+protobuf
+scikit-learn==1.7.2
