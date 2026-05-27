@@ -12,5 +12,6 @@ venv/
 tf-gpu/
 
 .git/
+README.md
 
 
